@@ -98,6 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'Safeer pushed the button for the unlimited time:',
             ),
+            const Text('I have pushed my first commit to github'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
